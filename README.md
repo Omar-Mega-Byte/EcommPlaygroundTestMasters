@@ -81,7 +81,7 @@ Seamlessly integrate with your **CI/CD pipeline** for continuous testing:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/web-automation-framework.git
+   git clone https://github.com/Omar-Mega-Byte/DEPI-Automated-Testing-Final-Project.git
    cd web-automation-framework
    ```
 
