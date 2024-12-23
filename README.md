@@ -148,7 +148,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 For any questions or suggestions, feel free to reach out:
 
-- **GitHub Issues**: Open an issue [here](https://github.com/Omar-Mega-Byte/web-automation-framework/issues)
+- **GitHub Issues**: Open an issue [here](https://github.com/Omar-Mega-Byte/DEPI-Automated-Testing-Final-Project/issues)
 - **Email**: omar.tolis2004@gmail.com 📧
 
 ## 🧑‍🤝‍🧑 **Meet the Team**
