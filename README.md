@@ -1,4 +1,4 @@
-# 🚀**Automated Testing Framework for Web Applications**🌐
+# 🚀**Automated Testing Framework for Web Application**🌐
 
 An end-to-end, fully automated testing framework designed for web applications. Whether you're testing UI, functionality, or performance, this project has you covered! ⚡
 
