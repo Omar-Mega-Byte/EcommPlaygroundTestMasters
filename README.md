@@ -76,6 +76,7 @@ Seamlessly integrate with your **CI/CD pipeline** for continuous testing:
 - **Selenium WebDriver** for browser automation 🖱️
 - **Postman** for API testing 🌐
 - **JMeter** or **Gatling** for performance testing 🚀
+- **Jenkins** For CI/CD integration. 🤖
 
 ### Installation Steps:
 
@@ -118,17 +119,6 @@ Seamlessly integrate with your **CI/CD pipeline** for continuous testing:
 
 ### 3. **Performance Testing Reports** 📈
 - JMeter/Gatling generate performance test reports with data like **response time**, **load capacity**, and **error rates** to ensure your app can scale under heavy traffic.
-
-
-## 🛠️ **Technologies Used**
-
-- **Selenium**: For UI automation testing.
-- **Postman**: For API testing.
-- **JMeter** & **Gatling**: For load and performance testing.
-- **TestNG / JUnit**: For test case execution and reporting.
-- **Jenkins**: For CI/CD integration.
-- **Maven**: For dependency management.
-
 
 ## 💡 **Contributing**
 
