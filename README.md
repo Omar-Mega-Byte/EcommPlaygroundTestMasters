@@ -1,7 +1,6 @@
-# **Automated Testing Framework for Web Application**
+# **EcommPlaygroundTestMasters**
 
-An end-to-end, fully automated testing framework designed for web applications. Whether you're testing UI, functionality, or performance, this project has you covered! ⚡
-
+An end-to-end, fully automated testing framework designed for the **E-commerce Playground** web application ([https://ecommerce-playground.lambdatest.io/](https://ecommerce-playground.lambdatest.io)). Whether you're testing UI, functionality, or performance, this project has you covered! ⚡
 
 ## 🏗️ **Project Structure**
 
@@ -37,7 +36,7 @@ This project is structured to support scalable and maintainable test automation.
 ## ✨ **Key Features**
 
 ### **1. UI Testing** 🖥️
-Automated tests for web interfaces using **Selenium WebDriver**, including:
+Automated tests for the **E-commerce Playground** web interfaces using **Selenium WebDriver**, including:
 - Cross-browser testing 🌍
 - Responsive design checks 📱💻
 
@@ -66,7 +65,6 @@ Seamlessly integrate with your **CI/CD pipeline** for continuous testing:
 - Works with **Jenkins**, **GitHub Actions**, or any other CI tool of choice.
 - Automatic test execution with every commit 💥
 
-
 ## 🚀 **Getting Started**
 
 ### Prerequisites:
@@ -82,8 +80,8 @@ Seamlessly integrate with your **CI/CD pipeline** for continuous testing:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Omar-Mega-Byte/DEPI-Automated-Testing-Final-Project.git
-   cd web-automation-framework
+   git clone https://github.com/Omar-Mega-Byte/EcommPlaygroundTestMasters.git
+   cd EcommPlaygroundTestMasters
    ```
 
 2. **Install dependencies**:
@@ -108,8 +106,7 @@ Seamlessly integrate with your **CI/CD pipeline** for continuous testing:
 - **HTML reports** are automatically generated after each run.
 - Logs and detailed error reports for easy debugging 🐞
 
-
-## 🌟 **Visual Features** 
+## 🌟 **Visual Features**
 
 ### 1. **Selenium UI Tests** 🧪
 - Automated UI tests simulate real user interactions. Clicks, form submissions, and navigation are tested across multiple browsers for consistency.
@@ -128,17 +125,15 @@ We welcome contributions! 🎉
 - Open an **issue** for discussion or a **pull request** for code
 - Follow the coding standards and write tests for your changes
 
-
 ## 📄 **License**
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
-
 
 ## 📞 **Contact Information**
 
 For any questions or suggestions, feel free to reach out:
 
-- **GitHub Issues**: Open an issue [here](https://github.com/Omar-Mega-Byte/DEPI-Automated-Testing-Final-Project/issues)
+- **GitHub Issues**: Open an issue [here](https://github.com/Omar-Mega-Byte/EcommPlaygroundTestMasters/issues)
 - **Email**: omar.tolis2004@gmail.com 📧
 
 ## 🧑‍🤝‍🧑 **Meet the Team**
@@ -164,6 +159,7 @@ This project is the result of collaborative work by an amazing team! 👏
 
 ## 🎉 **Enjoy Testing!** 🧑‍💻
 
-This framework is designed to make testing your web applications faster, easier, and more efficient. We hope you love it as much as we do! 🚀
+This framework is designed to make testing the **E-commerce Playground** web application faster, easier, and more efficient. We hope you love it as much as we do! 🚀
 
 ---
+
