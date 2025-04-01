@@ -1,0 +1,20 @@
+{
+	"info": {
+		"_postman_id": "d447d416-a3ac-4de2-bbf5-e7ae9c264ea5",
+		"name": "2. Verifying API Response Data",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "43221147",
+		"_collection_link": "https://gold-resonance-166177.postman.co/workspace/Team-Workspace~613b5506-7453-4bfb-82e1-c499336d62d8/collection/43221147-d447d416-a3ac-4de2-bbf5-e7ae9c264ea5?action=share&source=collection_link&creator=43221147"
+	},
+	"item": [
+		{
+			"name": "Json Comparison",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "https://jsonplaceholder.typicode.com/users/1"
+			},
+			"response": []
+		}
+	]
+}

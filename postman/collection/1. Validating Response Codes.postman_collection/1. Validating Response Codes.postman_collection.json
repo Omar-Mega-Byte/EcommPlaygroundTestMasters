@@ -1,0 +1,78 @@
+{
+	"info": {
+		"_postman_id": "55bb9d05-20f9-4dbb-8533-de2861965e90",
+		"name": "1. Validating Response Codes",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "43221147",
+		"_collection_link": "https://gold-resonance-166177.postman.co/workspace/Team-Workspace~613b5506-7453-4bfb-82e1-c499336d62d8/collection/43221147-55bb9d05-20f9-4dbb-8533-de2861965e90?action=share&source=collection_link&creator=43221147"
+	},
+	"item": [
+		{
+			"name": "200 Ok",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://jsonplaceholder.typicode.com/users/1",
+					"protocol": "https",
+					"host": [
+						"jsonplaceholder",
+						"typicode",
+						"com"
+					],
+					"path": [
+						"users",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "400 (Bad Request)",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://httpbin.org/status/400\n",
+					"protocol": "https",
+					"host": [
+						"httpbin",
+						"org"
+					],
+					"path": [
+						"status",
+						"400\n"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Auth",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://api.github.com/user",
+					"protocol": "https",
+					"host": [
+						"api",
+						"github",
+						"com"
+					],
+					"path": [
+						"user"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
