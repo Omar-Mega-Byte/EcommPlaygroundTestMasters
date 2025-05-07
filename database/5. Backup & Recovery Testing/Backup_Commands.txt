@@ -1,0 +1,10 @@
+Microsoft Windows [Version 10.0.22631.5189]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Windows\System32>cd C:\Program Files\MySQL\MySQL Server 8.0\bin
+
+C:\Program Files\MySQL\MySQL Server 8.0\bin>mysqldump -u root -p company > backup.sql
+Enter password:
+-- Warning: column statistics not supported by the server.
+
+C:\Program Files\MySQL\MySQL Server 8.0\bin>
