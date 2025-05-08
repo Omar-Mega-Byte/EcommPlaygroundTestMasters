@@ -20,4 +20,4 @@ public class LambdaLoginTest extends BaseTest {
         loginPage.logout();
 
     }
-}
+} 
