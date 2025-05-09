@@ -1,0 +1,21 @@
+Started by user Omar Ahmed Elrfaay
+
+Running as SYSTEM
+Building in workspace C:\ProgramData\Jenkins\.jenkins\workspace\Depi
+The recommended git tool is: NONE
+using credential 6beeae82-3ea5-44f3-ab9f-e8d5ead4ee77
+ > git.exe rev-parse --resolve-git-dir C:\ProgramData\Jenkins\.jenkins\workspace\Depi\.git # timeout=10
+Fetching changes from the remote Git repository
+ > git.exe config remote.origin.url https://github.com/Omar-Mega-Byte/EcommPlaygroundTestMasters # timeout=10
+Fetching upstream changes from https://github.com/Omar-Mega-Byte/EcommPlaygroundTestMasters
+ > git.exe --version # timeout=10
+ > git --version # 'git version 2.44.0.windows.1'
+using GIT_ASKPASS to set credentials 
+ > git.exe fetch --tags --force --progress -- https://github.com/Omar-Mega-Byte/EcommPlaygroundTestMasters +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git.exe rev-parse "refs/remotes/origin/main^{commit}" # timeout=10
+Checking out Revision b5cb6cc3e50dd754f9392035670e35ca6ea444c5 (refs/remotes/origin/main)
+ > git.exe config core.sparsecheckout # timeout=10
+ > git.exe checkout -f b5cb6cc3e50dd754f9392035670e35ca6ea444c5 # timeout=10
+Commit message: "Add files via upload"
+First time build. Skipping changelog.
+Finished: SUCCESS
